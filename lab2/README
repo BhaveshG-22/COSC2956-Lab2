@@ -1,0 +1,59 @@
+Lab 2
+Reproduce the document below using HTML5:
+ 
+The following are hints to help you build this webpage.
+Welcome to Lab 2 (use h1).
+This is heading 1. (use h1)
+This is heading 2. (use h2)
+This is a new paragraph (use p).
+
+(use hr to create a horizontal line)
+ 
+(use <!-- to create at least one comment in your document) 
+This sentence uses <strong> for strong importance.
+This sentence uses both <strong> for strong importance and <em> for emphasis.
+This sentence is written in italic style.
+This sentence is written in small style.
+This sentence contains subscript and superscript text.
+This sentence contains deleted text and inserted text. 
+      The HTML <a> (anchor) tag defines a hyperlink.
+      A hyperlink (or link) is a word, group of words, or image that you can  click on to jump to another document.
+      When you move the cursor over a link in a Web page, the arrow will turn into a little hand.
+      The most important attribute of the <a> element is the href attribute, which indicates the link’s destination.
+      By default, links will appear as follows in all browsers:
+
+            1. An unvisited link is underlined and blue.
+            2. A visited link is underlined and purple.
+            3. An active link is underlined and red.
+            Algoma University
+    
+Our Milky Way Galaxy (use h1)
+The picture dimensions are 300x200 pixels (use h2)
+ 
+
+There are two more tags below: (use p)
+1.	HTML List (use ordered list)
+2.	HTML Table
+HTML List (use p)
+•	The ordered List (use unordered list)
+•	The unordered List
+•	The definition List
+<dt> defines the item in the list. (indent this by 50px)
+<dd> - describes the item in the list. (indent this by 50px)
+For example: (indent this by 50px)
+HTML (use dl to create a description list, indent this by 50px, use dt and b) 
+- Hypertext Markup Language (use dd)
+
+Header Column 1	Header Column 2	Header Column 3	Header Column 4
+column 1	column 2	column 3	column 4
+column 1	column 2	column 3	column 4
+Set the border of this table to 1
+Go to Top (use href)
+Submission
+1.	Copy your repository URL into the space provided below.
+
+__________________________________________________________________
+e.g. GitHub Repository URL: https://github.com/your_username/lab2.git
+
+2.	Upload this file to Dropbox.
+
